@@ -7,9 +7,9 @@ public class Main {
         //Task 1
         System.out.println("Task 1");
 
-        String firstName = "ivan";
+        String firstName = "Ivan";
         String middleName = "Ivanovich";
-        String lastName = "ivanov";
+        String lastName = "Ivanov";
 
         String fullName = lastName + " " + firstName + " " + middleName;
         System.out.println("Ф. И. О. сотрудника — " + fullName);
